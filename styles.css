@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+    body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        nav {
+            margin: 20px 0;
+        }
